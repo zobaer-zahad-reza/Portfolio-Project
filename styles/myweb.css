@@ -164,3 +164,38 @@ main section{
 .skill h4{
     margin-bottom: 16px;
 }
+/* resume style */
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.resume-column{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.resume-title{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.resume-column-title{
+    margin-bottom: 50px;
+}
+.experience-title{
+    margin-bottom: 10px;
+}
+.experience-sub-title{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 14px;
+}
+.experience-description{
+    color: #757575;
+    margin-bottom: 16px;
+}
+.cv-download-btn{
+    text-align: center;
+    justify-content: center;
+    border-radius: 8px;
+    margin-top: 20px;
+}
