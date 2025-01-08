@@ -136,3 +136,10 @@ main{
 .items a{
     text-decoration: none;
 }
+/* what i do */
+.section-title{
+    text-align: center;
+}
+.section-description{
+    text-align: center;
+}
