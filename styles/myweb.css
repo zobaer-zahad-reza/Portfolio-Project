@@ -1,4 +1,7 @@
-
+*{
+    margin: 0;
+    padding: 0;
+}
 .work-sans-font {
   font-family: "Work Sans", serif;
   font-optical-sizing: auto;
@@ -45,6 +48,7 @@ nav{
 .nav-title{
     font-weight: bolder;
     font-size: 38px;
+    margin-bottom: 120px;
 }
 nav ul li{
     list-style: none;
@@ -59,6 +63,7 @@ nav ul {
 }
 nav ul li{
     margin-right: 30px;
+    margin-top: 0;
 }
 .btn{
     background-color: #FD6E0A;
@@ -83,13 +88,16 @@ nav ul li{
 .banner-hi{
     font-size: 35px;
     font-weight: 600;
+    margin-bottom: 10px;
 }
 .banner-content{
     max-width: 450px;
+    margin-left: 10px;
 }
 .banner-title{
     font-weight: bold;
     font-size: 45px;
+    margin-bottom: 30px;
 }
 .banner-profile-pic{
     width: 300px;
@@ -97,6 +105,7 @@ nav ul li{
 .banner-para{
     font-size: 14px;
     line-height: 25px;
+    margin-bottom: 20px;
 }
 /* main style */
 main{
